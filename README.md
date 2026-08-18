@@ -84,6 +84,5 @@ npm run reset-project
 
 
 ## Author
-MATTAM VAIBHAVI
 KETHA ARVIND NANDA KISHORE
 
